@@ -163,7 +163,7 @@ A list of awesome Kotlin android projects, libraries, documents and other resour
 - [Streamline Android Java Code with Kotlin](http://www.sitepoint.com/streamline-android-java-code-with-kotlin/)
 - [Android development with Kotlin](http://inaka.net/blog/2016/01/15/android-development-with-kotlin/)
 - [Building APIs on the JVM Using Kotlin and Spark](http://nordicapis.com/building-apis-on-the-jvm-using-kotlin-and-spark-part-1/)
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/mobile-development/kotlin-android) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Using Project Kotlin for Android](https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit)
 - [Kotlin for cross platform mobile app development](https://robovm.com/kotlin-for-cross-platform-mobile-app-development/)
 - [Learn Kotlin while developing an Android App](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
